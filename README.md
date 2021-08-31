@@ -3,7 +3,7 @@
 
 Aplicativo de lista de cartão de visita onde é possível manter os dados nome, empresa, telefone de contato, email e cor de fundo do cartão utilizando banco de dados Room.
 
-![Screenshot](layout-card.png)
+![layout-card](https://user-images.githubusercontent.com/56240554/131436206-b066a44a-c956-4830-943f-ed7b01baafa5.png)
 
 
 ## Tecnologias utilizadas
