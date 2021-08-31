@@ -10,4 +10,6 @@
     <string name="btn_confirm_name">Confirma</string>
     <string name="label_show_success">Cartão cadastrado com sucesso.</string>
     <string name="label_share">Compartilhar</string>
+    <string name="phone">iv_nome_phone</string>
+    <string name="iv_email_name">email</string>
 </resources>
